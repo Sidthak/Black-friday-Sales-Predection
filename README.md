@@ -18,9 +18,6 @@ We have explored various approaches, employing Linear Regression, Decision Tree 
 Here are some key findings:
 - Males exhibit more interest in Black Friday sales than females.
 - The 26-35 age group is the most active.
-- A diverse set of 20 occupations participate in Black Friday sales.
-- City B has the highest participation rate.
-- Most participants have stayed in their respective cities for one year.
 - Unmarried participants account for 59.09%.
 - Product categories are diverse.
   
